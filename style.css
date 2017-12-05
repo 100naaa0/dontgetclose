@@ -9,8 +9,8 @@ body {
 body {
   margin: 0;
 }
-
-/*.background {
+/*
+.background {
   display: flex;
   position: absolute;
   color: #fff;
@@ -32,7 +32,8 @@ body {
   margin-bottom: 5%;
   justify-content: center;
   align-items: center;
-}*/
+}
+*/
 
 #cursor {
   position: absolute;
